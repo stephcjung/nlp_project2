@@ -1,7 +1,7 @@
 """
-COMS W4705 - Natural Language Processing - Fall 2023
+COMS W4705 - Natural Language Processing - Spring 2024
 Homework 2 - Parsing with Probabilistic Context Free Grammars 
-Daniel Bauer
+Professor Daniel Bauer
 """
 import math
 import sys
